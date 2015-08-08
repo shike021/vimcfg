@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/shike/work/shiserver/mcu_server/engine'
+let g:netrw_dirhist_2='/home/shike/work/shiserver/MediaRecordServer/engine'
+let g:netrw_dirhist_3='/home/shike/work/shiserver/mcu_server/engine'
+let g:netrw_dirhist_4='/home/shike/work/shiserver/MediaRecordServer/engine'
+let g:netrw_dirhist_5='/home/shike/work/shiserver/base'
