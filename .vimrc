@@ -17,6 +17,12 @@ colorscheme molokai
 
 set number			"" show line number
 set ruler			""
+set nowrap                      "" 
 set history=1000
 set nobackup  
 set noswapfile
+
+set tabstop=8
+set softtabstop=8
+set shiftwidth=8
+set expandtab
